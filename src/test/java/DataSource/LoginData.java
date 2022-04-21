@@ -24,15 +24,3 @@ public class LoginData {
 
 }
 
-    public static void main(String[] args) {
-        System.out.println("this is test");
-        System.out.println("test2");
-        
-        System.out.println("test from github");
-
-    }
-dsafsd
-
-hrty
-        fwewe
-dsfaasdfdsa
