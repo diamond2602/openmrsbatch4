@@ -17,6 +17,13 @@ public class LoginData {
                 {"admin","Admin123","Outpatient Clinic"},
                 {"admin","Admin123","Pharmacy"},
                 {"admin","Admin123","Registration Desk"}
+
         };
+
     }
+
 }
+
+    public static void main(String[] args) {
+        System.out.println("this is test");
+    }
